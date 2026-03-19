@@ -1,0 +1,6 @@
+﻿  pract13_zab.cpp
+C:\Users\st310-07\Source\Repos\zab13_\pract13_zab\pract13_zab.cpp(7,19): warning C4305: инициализация: усечение из "__int64" в "long"
+C:\Users\st310-07\Source\Repos\zab13_\pract13_zab\pract13_zab.cpp(7,19): warning C4309: инициализация: усечение константного значения
+C:\Users\st310-07\Source\Repos\zab13_\pract13_zab\pract13_zab.cpp(113,35): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\st310-07\Source\Repos\zab13_\pract13_zab\pract13_zab.cpp(127,25): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+  pract13_zab.vcxproj -> C:\Users\st310-07\Source\Repos\zab13_\pract13_zab\x64\Debug\pract13_zab.exe
