@@ -1,0 +1,4 @@
+﻿  pract13_zabelina.cpp
+C:\Users\st310-07\Downloads\pract13_zabelina\pract13_zabelina\pract13_zabelina.cpp(78,43): warning C4244: -=: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\st310-07\Downloads\pract13_zabelina\pract13_zabelina\pract13_zabelina.cpp(133,42): warning C4244: -=: преобразование "__int64" в "long", возможна потеря данных
+  pract13_zabelina.vcxproj -> C:\Users\st310-07\Downloads\pract13_zabelina\x64\Debug\pract13_zabelina.exe
